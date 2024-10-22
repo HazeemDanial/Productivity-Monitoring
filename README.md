@@ -5,7 +5,6 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [Importance of Efficient Home Management](#importance-of-efficient-home-management)
 - [Project Details](#project-details)
   - [Overview](#overview)
   - [Features](#features)
