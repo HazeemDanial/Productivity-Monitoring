@@ -1,6 +1,6 @@
 # Productivity Monitoring System
 
-<img src="https://miro.medium.com/v2/resize:fit:1400/0*9R3WH9hpAaHHaCfa.jpg](https://strapi.vksapp.com/uploads/what_is_productivity_monitoring_de56b66098.jpg" alt="Productivity Monitoring System" width="1000"/>
+<img src="https://github.com/kaixin1112/Productivity-Monitoring/edit/main/mainpage.jpg" alt="Productivity Monitoring System" width="1000"/>
 
 ## Table of Contents
 
