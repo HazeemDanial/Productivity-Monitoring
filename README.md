@@ -1,4 +1,4 @@
-# Productivity Monitoring System
+# 💼 Productivity Monitoring System 🖥️
 
 <img src="https://github.com/kaixin1112/Productivity-Monitoring/blob/main/mainpage.jpg" alt="Productivity Monitoring System" width="1000"/>
 
