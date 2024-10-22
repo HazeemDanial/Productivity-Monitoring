@@ -1,6 +1,6 @@
 # Productivity Monitoring System
 
-<img src="https://github.com/kaixin1112/Productivity-Monitoring/edit/main/mainpage.jpg" alt="Productivity Monitoring System" width="1000"/>
+<img src="https://github.com/kaixin1112/Productivity-Monitoring/blob/main/mainpage.jpg" alt="Productivity Monitoring System" width="1000"/>
 
 ## Table of Contents
 
